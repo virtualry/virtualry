@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ry</h1>
 <h3 align="center">Aspiring Web Developer & Software Engineer</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript**.
 
-- 💬 Ask me about **Java, HTML, and CSS**
+- 💬 Ask me about **Java, HTML, and CSS**.
 
-- 📫 How to reach me **ryana.jane15@gmail.com**
+- 📫 How to reach me **ryana.jane15@gmail.com**.
 
-- ⚡ Fun fact **I can ride the unicycle**
+- ⚡ Fun fact **I can ride the unicycle**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
