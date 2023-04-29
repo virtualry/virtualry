@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ry</h1>
-<h3 align="center">Aspiring Web Developer & Software Engineer</h3>
+<h3 align="center">Aspiring Web Developer and Graphic Designer</h3>
 
 - 🌱 I’m currently learning **JavaScript**.
 
