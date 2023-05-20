@@ -10,7 +10,7 @@
 - ⚡ Fun fact I can ride the unicycle.
 
 <h3 align="left">Connect with me on LinkedIn</h3>
-[![LinkedIn](https://drive.google.com/uc?export=view&id=1D_qhxTaYvZYwvA6B_Z4Go6IglTDaHmNh)](https://www.linkedin.com/in/ry-stockdill-279b9a232/)
+[![LinkedIn](https://github.com/virtualry/virtualry/blob/main/linkedinLogo.png)](https://www.linkedin.com/in/ry-stockdill-279b9a232/)
 
 
 <p align="left">
