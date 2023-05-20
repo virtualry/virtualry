@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact I can ride the unicycle.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on [LinkedIn](https://www.linkedin.com/in/ry-stockdill-279b9a232/)</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ry-stockdill-279b9a232/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F18930587-linkedin-logo-png-linkedin-icon-transparent-png&psig=AOvVaw3mAB57ejzIT9HYB7oCgPhU&ust=1684637173939000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPiw2dXwgv8CFQAAAAAdAAAAABAE" alt="ryanajane" height="30" width="40" /></a>
 </p>
