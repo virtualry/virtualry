@@ -5,7 +5,7 @@
 
 - 💬 Ask me about my **virtual assisting, graphic design**, and **web design services**.
 
-- 📫 How to reach me **ryana.jane15@gmail.com**.
+- 📫 How to reach me **rysvirtuals@gmail.com**.
 
 - ⚡ Fun fact I can ride the unicycle.
 
