@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ry</h1>
 <h3 align="center">Web and Graphic Designer</h3>
 
-- 🌱 I’m currently learning mastering the art of **leveraging data and qualitative feedback** to highlight the significance of **user experience issues** and crafting a compelling narrative that **persuades viewers**.
+- 🌱 I’m currently learning mastering the art of leveraging data and qualitative feedback to **highlight the significance of user experience issues** and crafting a compelling narrative that **persuades viewers**.
 
-- 💬 Ask me about my **virtual assisting, graphic design, and web design services**.
+- 💬 Ask me about my **virtual assisting, graphic design**, and **web design services**.
 
 - 📫 How to reach me **ryana.jane15@gmail.com**.
 
-- ⚡ Fun fact **I can ride the unicycle**.
+- ⚡ Fun fact I can ride the unicycle.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
